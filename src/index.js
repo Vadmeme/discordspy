@@ -13,7 +13,7 @@ try {
         Logger.error("failed to load typing payload");
     }
 } catch(e) {
-    Logger.error("encountered hard errror in typing payload");
+    Logger.error("encountered hard error in typing payload");
     console.error(e);
 }
 
@@ -22,6 +22,6 @@ try {
         Logger.error("failed to load read payload");
     }
 } catch(e) {
-    Logger.error("encountered hard errror in read payload");
+    Logger.error("encountered hard error in read payload");
     console.error(e);
 }
