@@ -1,0 +1,12 @@
+{
+  "name": "discord_spy",
+  "version": "1.0.0",
+  "description": "discord spy",
+  "main": "index.js",
+  "author": "woob",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
